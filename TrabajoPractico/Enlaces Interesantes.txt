@@ -1,0 +1,6 @@
+- A Branch-and-Bound Algorithm for the Talent
+Scheduling Problem: https://link.springer.com/chapter/10.1007/978-3-319-07455-9_22
+
+-Talent Scheduling: Talent Scheduling
+
+-A genetic algorithm for the talent scheduling problem: https://www.sciencedirect.com/science/article/abs/pii/0305054894900213
