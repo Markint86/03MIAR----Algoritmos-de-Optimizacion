@@ -1,0 +1,3 @@
+github.com/coin-or/jorlib/blob/master/jorlib-core/src/test/resources/tspLib/tsp/swiss42.tsp
+
+raw.githubusercontent.com/mastqe/tsplib/refs/heads/master/swiss42.tsps
